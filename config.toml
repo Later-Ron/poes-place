@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://later-ron.github.io/poes-place/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
