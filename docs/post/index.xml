@@ -26,7 +26,11 @@
       <pubDate>Wed, 02 Jan 2019 15:11:15 +0000</pubDate>
       
       <guid>https://later-ron.github.io/poes-place/post/first-post/</guid>
-      <description>HELLO. How are you?</description>
+      <description>Making a website This is my first attempt at making a website on GitHub using a static site generator.
+Maybe we should be looking at teaching these skills to other members of staff in the organisation.
+Perhaps the files should be held on a USB PenDrive using git to manage version control?
+Note: The cactus theme needs to be redownloaded everytime the repo is cloned.
+slkdfwsdfassdf sdlfjkw  What about google analytics?</description>
     </item>
     
   </channel>
