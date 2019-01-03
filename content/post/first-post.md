@@ -11,10 +11,12 @@ Maybe we should be looking at teaching these skills to other members of staff in
 
 Perhaps the files should be held on a USB PenDrive using git to manage version control?
 
+Don't forget to Hugo before pushing the files to github (give it time to update)
+
 Note: The cactus theme needs to be redownloaded everytime the repo is cloned.
 
 ~~~
-slkdfwsdfassdf sdlfjkw
+git submodule add https://github.com/digitalcraftsman/hugo-cactus-theme.git themes/cactus
 ~~~ 
 
 What about google analytics?
@@ -22,8 +24,10 @@ What about google analytics?
 ---
 ### Creating a new post
 
+At the top level of the website
+
 ~~~
-asdasd aDASD
+hugo new post/first-post.md
 ~~~
 
 ### How to

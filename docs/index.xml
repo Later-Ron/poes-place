@@ -29,8 +29,8 @@
       <description>Making a website This is my first attempt at making a website on GitHub using a static site generator.
 Maybe we should be looking at teaching these skills to other members of staff in the organisation.
 Perhaps the files should be held on a USB PenDrive using git to manage version control?
-Note: The cactus theme needs to be redownloaded everytime the repo is cloned.
-slkdfwsdfassdf sdlfjkw  What about google analytics?</description>
+Don&amp;rsquo;t forget to Hugo before pushing the files to github (give it time to update)
+Note: The cactus theme needs to be redownloaded everytime the repo is cloned.</description>
     </item>
     
   </channel>
