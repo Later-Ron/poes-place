@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikis on My Example Site</title>
+    <link>https://later-ron.github.io/poes-place/wiki/</link>
+    <description>Recent content in Wikis on My Example Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jan 2019 19:30:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://later-ron.github.io/poes-place/wiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wifi</title>
+      <link>https://later-ron.github.io/poes-place/wiki/wifi/</link>
+      <pubDate>Sat, 05 Jan 2019 19:30:22 +0000</pubDate>
+      
+      <guid>https://later-ron.github.io/poes-place/wiki/wifi/</guid>
+      <description>Problems with WiFi on a HP Laptop running Ubuntu 18.04 The following page solved my problem &amp;hellip;
+http://ubuntuhandbook.org/index.php/2018/08/no-wifi-adapter-found-hp-laptops -ubuntu-18-04/</description>
+    </item>
+    
+  </channel>
+</rss>

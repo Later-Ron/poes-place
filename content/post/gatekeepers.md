@@ -1,7 +1,7 @@
 ---
 title: "Gatekeepers"
 date: 2019-01-03T12:21:48Z
-draft: false
+draft: true
 ---
 ## How do we deal with the gate keepers?
 
