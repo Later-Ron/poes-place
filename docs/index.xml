@@ -6,28 +6,10 @@
     <description>Recent content on My Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Jan 2019 12:49:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jan 2019 12:21:48 +0000</lastBuildDate>
     
 	<atom:link href="https://later-ron.github.io/poes-place/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hello</title>
-      <link>https://later-ron.github.io/poes-place/project/hello/</link>
-      <pubDate>Thu, 03 Jan 2019 12:49:36 +0000</pubDate>
-      
-      <guid>https://later-ron.github.io/poes-place/project/hello/</guid>
-      <description> lskdgnwvnvnlosdjkfnsdfs df sdf s dfs df s </description>
-    </item>
-    
-    <item>
-      <title>Help</title>
-      <link>https://later-ron.github.io/poes-place/project/blackboard/help/</link>
-      <pubDate>Thu, 03 Jan 2019 12:43:56 +0000</pubDate>
-      
-      <guid>https://later-ron.github.io/poes-place/project/blackboard/help/</guid>
-      <description> here we go again </description>
-    </item>
     
     <item>
       <title>Gatekeepers</title>
@@ -38,15 +20,6 @@
       <description>How do we deal with the gate keepers? Have you read my previous post?
 Something to click
 All we have to do is work out what is going on.</description>
-    </item>
-    
-    <item>
-      <title>Second Post</title>
-      <link>https://later-ron.github.io/poes-place/post/second-post/</link>
-      <pubDate>Wed, 02 Jan 2019 15:48:56 +0000</pubDate>
-      
-      <guid>https://later-ron.github.io/poes-place/post/second-post/</guid>
-      <description>Blog 2 Something else to read.</description>
     </item>
     
     <item>
