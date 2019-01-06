@@ -13,4 +13,10 @@ The following URLs might help ...
 
 [https://gohugo.io/content-management/](https://gohugo.io/content-management/)
 
+[https://discourse.gohugo.io/t/unwanted-pages-show-up-in-my-list-view/6656/2](https://discourse.gohugo.io/t/unwanted-pages-show-up-in-my-list-view/6656/2)
+
+[https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/](https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/)
+
+[https://gohugo.io/templates/introduction/](https://gohugo.io/templates/introduction/)
+
 
