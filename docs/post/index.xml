@@ -6,10 +6,22 @@
     <description>Recent content in Posts on My Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Jan 2019 19:21:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jan 2019 00:51:01 +0000</lastBuildDate>
     
 	<atom:link href="https://later-ron.github.io/poes-place/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Structure</title>
+      <link>https://later-ron.github.io/poes-place/post/structure/</link>
+      <pubDate>Sun, 06 Jan 2019 00:51:01 +0000</pubDate>
+      
+      <guid>https://later-ron.github.io/poes-place/post/structure/</guid>
+      <description>How do we structure content in hugo? The following URLs might help &amp;hellip;
+https://www.jakewiesler.com/blog/hugo-directory-structure/
+https://www.codeooze.com/webdesign/hugo-toc/
+https://gohugo.io/content-management/</description>
+    </item>
     
     <item>
       <title>Something Else</title>

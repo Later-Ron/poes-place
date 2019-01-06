@@ -1,7 +1,7 @@
 ---
 title: "Structure"
 date: 2019-01-06T00:51:01Z
-draft: true
+draft: false
 ---
 ## How do we structure content in hugo?
 
