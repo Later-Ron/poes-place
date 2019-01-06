@@ -5,12 +5,12 @@ hidden = true
 menu = "main"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.
+## Who am I?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+I am a blogger
 
 ***
 
-### Lorem ipsum dolor.
+### What do I do?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.
+Simple answer ... this and that.

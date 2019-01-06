@@ -2,6 +2,7 @@
 title: "Wifi"
 date: 2019-01-05T19:30:22Z
 draft: false
+menu: "Wiki"
 ---
 ## Problems with WiFi on a HP Laptop running Ubuntu 18.04
 

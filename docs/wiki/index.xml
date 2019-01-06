@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wikis on My Example Site</title>
+    <title>Wiki on My Example Site</title>
     <link>https://later-ron.github.io/poes-place/wiki/</link>
-    <description>Recent content in Wikis on My Example Site</description>
+    <description>Recent content in Wiki on My Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Jan 2019 19:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate>
     
 	<atom:link href="https://later-ron.github.io/poes-place/wiki/index.xml" rel="self" type="application/rss+xml" />
     
